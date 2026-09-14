@@ -1,4 +1,4 @@
-# Resources on Computational Agents and Scientific Computing
+# Resources on Coding Agents and Scientific Computing
 
 It may be useful to both make resources available to the public community, as well as allow for the collection of suggested new resources. Over time we could decide how to integrate this list into a public project.
 
