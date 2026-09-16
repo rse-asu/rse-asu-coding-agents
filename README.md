@@ -1,4 +1,4 @@
-# Resources on Coding Agents and Scientific Computing
+# Resources on Coding Agents and Research Computing
 
 It may be useful to both make resources available to the public community, as well as allow for the collection of suggested new resources. Over time we could decide how to integrate this list into a public project.
 
@@ -74,6 +74,14 @@ A comprehensive collection of over 160 ready-to-use scientific and research skil
 ### Older items
 
 This section reserved for items that "graduate" off the list due to age (likely in months).
+
+## Contrary perspectives: Arguments against (or for limiting) coding agents in research software
+
+While the tenor of the list above is oriented toward the idea of making coding agents positively productive for research software development, there are substantial numbers of research software professionals that generally oppose the use of LLM-based assistance for research software. Some of those perspectives appear below. Note that many "anti-AI" discussions will describe the broad use of AI across many research workflows; here, we will attempt to isolate commentaries specific to the production of research code.
+
+- [Protecting our FLOSS commons from LLMs](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html) — Codeberg e.V. (July 2026; community policy statement). Codeberg is not a scientific community but does host scientific projects, particularly in Europe. This declaration presents many passionate arguments about LLM use in software development. Representative quote: "To us, it seems ridiculous to see projects with a single developer and virtually no users consuming as much or even more resources than some of the largest community projects on Codeberg, which operate frugal with CI/CD and storage resources."  Effectively bans "vibe-coded" projects. [Thanks to Julia Damerow for the suggestion.]
+
+- [Leiden Declaration on Artificial Intelligence and Mathematics](https://leidendeclaration.ai/) — Community declaration (June 2026). Recommendations on AI in mathematical research, emphasizing human responsibility for correctness, disclosure, attribution, independent verification, and research autonomy. The declaration is far broader than coding agents--indeed, there is no mention--but useful for the purposes of perspective. [Thanks to Susan Massey for suggesting.]
 
 ## Submitting New Resources
 
